@@ -2,11 +2,11 @@
 - `DATA BASE`: Sqlalchemy Database
 - `DATA LIMIT`: 10000
 
-My New Updates In This [Channel](https://t.me/DX_Botz)
+My Group [Group](https://t.me/Cinema_Seekers)
 
-Our Beta [Filter Bot](https://t.me/Filters_Robot).
 
-Alternatively, [find me on telegram](https://t.me/D_ar_k_Angel)! (Keep all support questions in the support chat, where more people can help you.)
+
+Alternatively, [find me on telegram](https://t.me/Njan_ORu_BheegaRaN)! (Keep all support questions in the support chat, where more people can help you.)
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
